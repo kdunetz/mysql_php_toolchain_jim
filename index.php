@@ -68,7 +68,7 @@
         <div class="col-md-4">
           <h2>MySQL</h2>
           <p>
-          This application example uses the MySQLi extension.  By default Bluemix does not automatically 
+          HELLO This application example uses the MySQLi extension.  By default Bluemix does not automatically 
           include this extension when deploying PHP applications in Cloud Foundry.  A composer.json file
           was added to the root folder with the proper json to tell Bluemix to include it when deploying.
           </p>
